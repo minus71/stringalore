@@ -23,7 +23,10 @@ Aprire `cmd` e aggiungere il path se non compreso nei path utente o di sistema, 
 
 
 A questo punto potete aprire eclipse e importare il progetto maven con :
-_**import...>maven>existing maven project**_ scegliendo come folder la cartella del workspace.
+
+	import...>maven>existing maven project
+
+scegliendo come folder la cartella del workspace.
 
 
 
