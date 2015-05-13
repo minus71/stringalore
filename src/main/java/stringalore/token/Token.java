@@ -1,5 +1,9 @@
 package stringalore.token;
-
+/**
+ * The token class
+ * @author m.minutolo
+ *
+ */
 public abstract class Token {
 	protected final String text;
 
